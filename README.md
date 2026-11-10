@@ -89,10 +89,26 @@ This was made by me for a _basic_ school project for the **Atal Tinkering Lab (A
 
 ---
 
-## Images
+## Image(s)
+
+### Image(s) of the webpage (`http://esp32-clock.local/`) on macOS
 
 ![Image 1 of http://esp32-clock.local on macOS](https://raw.githubusercontent.com/olympus-mons26/esp32-digital-clock/main/images/image_1_webpage.png)
 
 ![Image 2 of http://esp32-clock.local on macOS](https://raw.githubusercontent.com/olympus-mons26/esp32-digital-clock/main/images/image_2_webpage.png)
 
 ![Image 3 of http://esp32-clock.local on macOS](https://raw.githubusercontent.com/olympus-mons26/esp32-digital-clock/main/images/image_3_webpage.png)
+
+### Image(s) of the connections & hardware
+
+`\\ TO DO`
+
+## Images(s) of the webpage (`http://esp32-clock.local/`) on Android
+
+`\\ TO DO`
+
+---
+
+## A few things to work on (TO REMOVE AFTER DONE)
+
+1. Check if OTA updates works, and the webpage updates.
