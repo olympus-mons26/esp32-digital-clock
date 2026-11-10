@@ -12,7 +12,7 @@ Designed & Built by [**Baljit Panda**](https://github.com/olympus-mons26).
 2. **TM1637 4-Digit 7-Segment LED Display** (with colon)
 3. **DS3231 Real-Time Clock (RTC) Module** (with backup coin cell battery)
 4. **Onboard Status LED** (GPIO 2; in-built)
-5. **Cables, breadboard, jumper (DuPont) wires** (for the connection)
+5. **Cables, breadboard, & jumper (*DuPont*) wires** (for the connection)
 
 ---
 
