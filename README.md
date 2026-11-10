@@ -89,6 +89,14 @@ This was made by me for a _basic_ school project for the **Atal Tinkering Lab (A
 
 ---
 
+---
+
+## LICENSE 
+
+MIT License
+
+---
+
 ## Image(s)
 
 ### Image(s) of the webpage (`http://esp32-clock.local/`) on macOS
@@ -112,10 +120,3 @@ This was made by me for a _basic_ school project for the **Atal Tinkering Lab (A
 ## A few things to work on (TO REMOVE AFTER DONE)
 
 1. Check if OTA updates works, and the webpage updates.
-
----
-
-## LICENSE 
-
-MIT License
-
