@@ -461,8 +461,8 @@ void setup()
     updateDisplayTime();
   }
 
-  // --- ADD BOTH WIFI NETWORKS ---
-  wifiMulti.addAP("WIFI_NAME_1", "WIFI_PASSWORD_1"); // Change the text in the brackets, and add, in the same format a new line to add another Wi-Fi network
+  // --- ADD THE WIFI NETWORKS ---
+  wifiMulti.addAP("WIFI_NAME_1", "WIFI_PASSWORD_1"); // Change the text in the brackets, and add, in the same format a new line to add another Wi-Fi network for as many as needed
   wifiMulti.addAP("WIFI_NAME_2", "WIFI_PASSWORD_2");
   WiFi.mode(WIFI_STA);
 
