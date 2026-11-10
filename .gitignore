@@ -1,0 +1,16 @@
+# Arduino build artifacts
+/build/
+/core/
+*.bin
+*.hex
+*.elf
+*.map
+
+# macOS system files
+.DS_Store
+
+# IDE specific folders
+.vscode/
+.idea/
+*.ino.bin
+*.ino.with_bootloader.bin
