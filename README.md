@@ -31,6 +31,21 @@ Designed & Built by [**Baljit Panda**](https://github.com/olympus-mons26).
 
 ---
 
+## 📦 Arduino IDE Dependencies & Libraries
+
+To compile and flash this firmware successfully, ensure your Arduino IDE has the **ESP32 Board Package** installed along with the following required libraries:
+
+### 1. Board Package
+
+- **ESP32 by Espressif Systems** (Install via _Tools > Board > Boards Manager_ by searching for "ESP32").
+
+### 2. Required Third-Party Libraries
+
+Install these via the Arduino IDE Library Manager (_Tools > Manage Libraries..._):
+
+- **`TM1637Display`** (by Avishay Orpaz) – Controls the 4-digit 7-segment display module.
+- **`RTCLib`** (by Adafruit) – Handles communication with the DS3231 Real-Time Clock over I2C.
+
 ## 💡 How It Works
 
 - **Multi-SSID WiFiMulti:** Automatically scans and connects to whichever pre-configured Wi-Fi network (_can be more than one_) is in range.
@@ -70,4 +85,4 @@ This was made by me for a _basic_ school project for the **Atal Tinkering Lab (A
 
 ## 🔗 Project Repository
 
-- [ESP32 Digital Clock Repository](https://github.com/olympus-mons26/esp32-digital-clock)
+- [ESP32 Digital Clock Repository](https://github.com/olympus-mons26/esp32-digital-clock/)
