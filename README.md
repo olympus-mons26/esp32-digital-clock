@@ -53,6 +53,7 @@ Install these via the Arduino IDE Library Manager (_Tools > Manage Libraries..._
 - **Hybrid Time Synchronization:** Combines high-accuracy atomic time fetched from public NTP servers (`pool.ntp.org`) upon connection with a hardware DS3231 Real-Time Clock module over I2C for offline reliability.
 - **Client-Side Second Interpolation:** The web dashboard features a JavaScript background ticker that keeps time moving smoothly down to the exact second without requiring constant page reloads or lagging.
 - **Fixed IST Timezone:** Permanently locked to Indian Standard Time (IST / UTC +5:30).
+- **NOTE:** Add your Wi-Fi credentials on `line 464`.
 
 ---
 
