@@ -92,5 +92,7 @@ This was made by me for a _basic_ school project for the **Atal Tinkering Lab (A
 ## Images
 
 ![Image 1 of http://esp32-clock.local on macOS](https://raw.githubusercontent.com/olympus-mons26/esp32-digital-clock/main/images/image_1_webpage.png)
+
 ![Image 2 of http://esp32-clock.local on macOS](https://raw.githubusercontent.com/olympus-mons26/esp32-digital-clock/main/images/image_2_webpage.png)
+
 ![Image 3 of http://esp32-clock.local on macOS](https://raw.githubusercontent.com/olympus-mons26/esp32-digital-clock/main/images/image_3_webpage.png)
