@@ -1,5 +1,5 @@
 /**
- * @file Eesp32-digital-clock.ino
+ * @file esp32-digital-clock.ino
  * @brief ESP32 Smart Clock with Dual-WiFi Multi support, mDNS (.local domain),
  *        TM1637 Display, DS3231 RTC, NTP Sync, Fixed IST Timezone, OTA Updates, and Credits.
  * @author Baljit Panda
