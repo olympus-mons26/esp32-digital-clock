@@ -77,7 +77,7 @@ Because microcontrollers cannot compile source code directly, wireless updates r
 
 ---
 
-## Why was this made?
+## 👨🏼‍🎓 Why was this made?
 
 This was made by me for a _basic_ school project for the **Atal Tinkering Lab (ATL)**.
 
@@ -89,13 +89,13 @@ This was made by me for a _basic_ school project for the **Atal Tinkering Lab (A
 
 ---
 
-## LICENSE 
+## 📑 LICENSE 
 
 MIT License
 
 ---
 
-## Image(s)
+## 🌌 Image(s)
 
 ### Image(s) of the webpage (`http://esp32-clock.local/`) on macOS
 
