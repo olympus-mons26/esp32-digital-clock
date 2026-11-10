@@ -89,8 +89,6 @@ This was made by me for a _basic_ school project for the **Atal Tinkering Lab (A
 
 ---
 
----
-
 ## LICENSE 
 
 MIT License
