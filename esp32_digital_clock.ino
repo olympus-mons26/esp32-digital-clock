@@ -343,7 +343,7 @@ void handleRoot()
   html += "<div class=\"footer-credit\">Designed & Built by <strong>Baljit Panda</strong></div>";
   html += "</div></body></html>";
 
-  server.send(200, "text/html", html);
+  server.send(200, "text/html; charset=UTF-8", htmlContent);
 }
 
 /**
